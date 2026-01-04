@@ -13,3 +13,4 @@
 /home/sebastian/development/web-api/skinet/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
 /home/sebastian/development/web-api/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
 /home/sebastian/development/web-api/skinet/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+/home/sebastian/development/web-api/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json

@@ -9,3 +9,4 @@
 /home/sebastian/development/web-api/skinet/Core/obj/Debug/net8.0/refint/Core.dll
 /home/sebastian/development/web-api/skinet/Core/obj/Debug/net8.0/Core.pdb
 /home/sebastian/development/web-api/skinet/Core/obj/Debug/net8.0/ref/Core.dll
+/home/sebastian/development/web-api/skinet/Core/obj/Debug/net8.0/Core.sourcelink.json
