@@ -10,3 +10,15 @@
 /home/sebastian/development/web-api/skinet/Core/obj/Debug/net8.0/Core.pdb
 /home/sebastian/development/web-api/skinet/Core/obj/Debug/net8.0/ref/Core.dll
 /home/sebastian/development/web-api/skinet/Core/obj/Debug/net8.0/Core.sourcelink.json
+/Users/seb/dev/csharp/skinet/Core/bin/Debug/net8.0/Core.deps.json
+/Users/seb/dev/csharp/skinet/Core/bin/Debug/net8.0/Core.dll
+/Users/seb/dev/csharp/skinet/Core/bin/Debug/net8.0/Core.pdb
+/Users/seb/dev/csharp/skinet/Core/obj/Debug/net8.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seb/dev/csharp/skinet/Core/obj/Debug/net8.0/Core.AssemblyInfoInputs.cache
+/Users/seb/dev/csharp/skinet/Core/obj/Debug/net8.0/Core.AssemblyInfo.cs
+/Users/seb/dev/csharp/skinet/Core/obj/Debug/net8.0/Core.csproj.CoreCompileInputs.cache
+/Users/seb/dev/csharp/skinet/Core/obj/Debug/net8.0/Core.sourcelink.json
+/Users/seb/dev/csharp/skinet/Core/obj/Debug/net8.0/Core.dll
+/Users/seb/dev/csharp/skinet/Core/obj/Debug/net8.0/refint/Core.dll
+/Users/seb/dev/csharp/skinet/Core/obj/Debug/net8.0/Core.pdb
+/Users/seb/dev/csharp/skinet/Core/obj/Debug/net8.0/ref/Core.dll

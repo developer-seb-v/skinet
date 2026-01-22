@@ -4001,32 +4001,33 @@
     ]
   },
   "packageFolders": {
-    "/home/sebastian/.nuget/packages/": {}
+    "/Users/seb/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sebastian/development/web-api/skinet/API/API.csproj",
+      "projectUniqueName": "/Users/seb/dev/csharp/skinet/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/home/sebastian/development/web-api/skinet/API/API.csproj",
-      "packagesPath": "/home/sebastian/.nuget/packages/",
-      "outputPath": "/home/sebastian/development/web-api/skinet/API/obj/",
+      "projectPath": "/Users/seb/dev/csharp/skinet/API/API.csproj",
+      "packagesPath": "/Users/seb/.nuget/packages/",
+      "outputPath": "/Users/seb/dev/csharp/skinet/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/sebastian/.nuget/NuGet/NuGet.Config"
+        "/Users/seb/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/sebastian/development/web-api/skinet/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/home/sebastian/development/web-api/skinet/Infrastructure/Infrastructure.csproj"
+            "/Users/seb/dev/csharp/skinet/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/Users/seb/dev/csharp/skinet/Infrastructure/Infrastructure.csproj"
             }
           }
         }
@@ -4035,6 +4036,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4065,7 +4071,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.122/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.410/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

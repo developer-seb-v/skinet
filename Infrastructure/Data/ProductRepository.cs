@@ -18,6 +18,11 @@ namespace Infrastructure.Data
             context.Products.Remove(product);
         }
 
+        public Task<IReadOnlyList<string>> GetBrandsAsync()
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task<Product?> GetProductByIdAsync(int id)
         {
             return await context.Products.FindAsync(id);
@@ -26,6 +31,11 @@ namespace Infrastructure.Data
         public async Task<IReadOnlyList<Product>> GetProductsAsync()
         {
             return await context.Products.ToListAsync();
+        }
+
+        public Task<IReadOnlyList<string>> GetTypesAsync()
+        {
+            throw new NotImplementedException();
         }
 
         public bool ProductExists(int id)

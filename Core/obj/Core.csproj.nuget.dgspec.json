@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/home/sebastian/development/web-api/skinet/Core/Core.csproj": {}
+    "/Users/seb/dev/csharp/skinet/Core/Core.csproj": {}
   },
   "projects": {
-    "/home/sebastian/development/web-api/skinet/Core/Core.csproj": {
+    "/Users/seb/dev/csharp/skinet/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sebastian/development/web-api/skinet/Core/Core.csproj",
+        "projectUniqueName": "/Users/seb/dev/csharp/skinet/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/home/sebastian/development/web-api/skinet/Core/Core.csproj",
-        "packagesPath": "/home/sebastian/.nuget/packages/",
-        "outputPath": "/home/sebastian/development/web-api/skinet/Core/obj/",
+        "projectPath": "/Users/seb/dev/csharp/skinet/Core/Core.csproj",
+        "packagesPath": "/Users/seb/.nuget/packages/",
+        "outputPath": "/Users/seb/dev/csharp/skinet/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sebastian/.nuget/NuGet/NuGet.Config"
+          "/Users/seb/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +33,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.122/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
